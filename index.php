@@ -12,5 +12,22 @@
 
 	Aula de Tableless, acesse o link da 
 	<a target="_blank" title="Site da Vx Comunicação" rel="nofollow" href="http://www.vxcomunicacao.com.br">Vx Comunicação</a>.
+
+	<ul>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+	</ul>
+
+	<ol>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+	</ol>
+
+	<dl>
+		<dt>Titulo 1</dt>
+		<dd>Descrição</dd>
+	</dl>
 </body>
 </html>
