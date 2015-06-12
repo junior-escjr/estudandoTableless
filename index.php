@@ -29,5 +29,13 @@
 		<dt>Titulo 1</dt>
 		<dd>Descrição</dd>
 	</dl>
+
+	<!-- ELEMENTOS DE TEXTO -->
+
+	<addr>Indição uma abrevição</addr><br />
+	<address>Informar contato do autor</address><br />
+	<blockquote>Indica uma citação</blockquote><br />
+	<cite>Indica o autor da citação</cite><br />
+	<code>Informa um script ou código</code>
 </body>
 </html>
